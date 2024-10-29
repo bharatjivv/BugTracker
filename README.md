@@ -1,8 +1,17 @@
-# Issue Tracker
+# Bug Tracker
+
+## Getting Started
+
+1. Clone the repository.  
+2. Run `npm install` to install dependencies.  
+3. Configure your database connection details in `prisma/schema.prisma`.
+4. Run `npm run dev` to start the development server.
+
 
 ## Overview
 
 Issue Tracker is a robust and user-friendly application built with Next.js 14 and React.js that empowers users to streamline their issue management process. This SEO-friendly platform offers a comprehensive set of features, optimizing workflow and enhancing collaboration. 
+
 
 ## Key Features
 
@@ -14,6 +23,7 @@ Issue Tracker is a robust and user-friendly application built with Next.js 14 an
 - **Database Management:** Leverage the power of Prisma ORM to manage issues effectively in your MySQL database.  
 - **Modern Tech Stack:** Built with Next.js 14, React.js, HTML, Tailwind CSS, Bootstrap, and Radix UI for optimal performance and responsiveness.
 
+
 ## Benefits
 
 - **Improved Workflow Efficiency:** Track and manage issues effortlessly, saving valuable time and resources.
@@ -22,12 +32,7 @@ Issue Tracker is a robust and user-friendly application built with Next.js 14 an
 - **Increased Productivity:** Eliminate manual tasks and streamline issue management processes.
 - **Peace of Mind:** Ensure application stability and security through robust bug tracking and secure authentication.
 
-## Getting Started
 
-1. Clone the repository.  
-2. Run `npm install` to install dependencies.  
-3. Configure your database connection details in `prisma/schema.prisma`.
-4. Run `npm run dev` to start the development server.
 
 ## Output 
 
@@ -44,8 +49,3 @@ Issue Tracker is a robust and user-friendly application built with Next.js 14 an
 <img width="1470" alt="Screenshot 2023-12-07 at 7 56 05 PM" src="https://github.com/sxs6596/IssueTracker/assets/127999061/829b0436-dab2-46bf-9b37-c34a66905bce">
 
 
-## Contact
-
-Feel free to reach out with any questions or feedback. 
-
-This project is still under development, and we welcome your contributions!
